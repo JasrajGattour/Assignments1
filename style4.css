@@ -1,0 +1,181 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+body
+{
+font-family: 'Franklin Gothic Medium';
+background-color: #e3e6e7;
+}
+#navbar
+{ 
+position: relative;
+top: 0;
+z-index: 1;
+margin-bottom: 1px;
+background-color: rgb(243, 240, 240);
+
+}
+.logo img{
+height: 100px;
+width: auto;
+padding-left:20px;
+}    
+form {
+    display: flex;
+    flex-direction: column;
+    padding-right: 60px;
+    padding-top: 20px;
+  
+  }
+.p1
+{
+font-size: 50px;
+letter-spacing: 3px;
+text-align: center;
+padding-top: 40px;
+}
+
+.p2{
+font-size: 30px;
+padding-top: 80px;
+padding-bottom: 20px;
+
+}
+.p3 {
+font-size: 20px;
+
+padding-top: 10px;
+padding-bottom: 20px;
+
+}
+.p4
+{
+font-size: 30px;
+padding-bottom: 20px;
+padding-top: 100px;
+
+}
+.p5
+{
+    font-size: 20px;
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+   
+}
+.p6{
+    font-size: 30px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+
+}
+.p7{
+    font-size: 20px;
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+
+}
+.col-md{
+    font-size: 20px;
+    padding-top: 50px;
+    background-color: rgb(233, 233, 233);
+    }
+.img1
+{
+
+width: 60px;
+padding-top: 10px;
+padding-left:  10px;
+padding-right: 10px;
+}
+
+.img2
+{
+
+width: 70px;
+padding-top: 10px;
+padding-left:  10px;
+padding-right: 10px;
+}
+
+.img3
+{
+width: 90px;
+padding-top: 5px;
+padding-left:  2px;
+padding-right: 2px;
+}
+.img4{
+width: 60px;
+padding-top: 10px;
+padding-left:  10px;
+padding-right: 10px;
+}
+
+.img5
+{
+width: 60px;
+padding-top: 10px;
+padding-left:  10px;
+padding-right: 10px;
+}
+.img6{
+    width: 60px;
+padding-top: 10px;
+padding-left:  10px;
+padding-right: 10px;
+}
+.img7{
+    width: 90px;
+padding-top: 10px;
+padding-left:  10px;
+padding-right: 10px;
+}
+
+.img8
+{
+width: 250px;
+padding-top: 10px;
+padding-right: 10px;
+padding-left: 10px;
+}
+
+.img9{
+width: 250px;
+padding-top: 10px;
+padding-right: 10px;
+padding-left: 10px;
+}
+.img10
+{
+width: 200px;
+padding-right: 10px;
+padding-left: 10px;
+padding-top: 10px;
+}
+
+.img11{
+
+width: 600px;
+padding-top: 100px;
+}
+.img12{
+
+width: 180px;
+padding-top: 10px;
+}
+
+
+
+.img14{
+    width: 300px;
+    }
+.nav
+{
+margin-top: 200px;
+background-color:rgb(243, 240, 240);
+}
